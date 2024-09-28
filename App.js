@@ -16,7 +16,7 @@ const App = () => {
         <div className="photo-section">
           
           <img
-            src="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/27/798/2927798_20210322162631_500.jpg?e7443c8cf76771e8c155c4027d033cb9/melon/resize/416/quality/80/optimize"
+            src="./IMG_4116.JPEG"
             alt="LUGI"
             className="artist-photo"
           />
