@@ -46,7 +46,7 @@ const App = () => {
               나만의 우주
               <button 
                 className="listen-button"
-                onClick={() => handleListenClick("https://www.youtube.com/watch?v=7ML7U-Y2wYY")}
+                onClick={() => handleListenClick("https://www.youtube.com/watch?v=Tq61C2pjGuY")}
               >
                 노래 듣기
               </button>
