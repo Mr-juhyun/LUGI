@@ -16,7 +16,7 @@ const App = () => {
         <div className="photo-section">
           
           <img
-            src="./IMG_4116.JPEG"
+            src="./IMG_4116.jpeg"
             alt="LUGI"
             className="artist-photo"
           />
