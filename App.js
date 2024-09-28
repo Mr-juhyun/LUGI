@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css"; // 스타일링을 위한 CSS 파일 import
+import "./App.css"; 
 
 const App = () => {
   const handleListenClick = (url) => {
@@ -9,12 +9,12 @@ const App = () => {
   return (
     <div className="container">
       <header className="header">
-        <h1>대황 루기</h1>
+        <h1>LUGI (루기)</h1>
       </header>
 
       <main className="main-content">
         <div className="photo-section">
-          {/* 가수의 사진을 넣을 공간 */}
+          
           <img
             src="https://cdnimg.melon.co.kr/cm2/artistcrop/images/029/27/798/2927798_20210322162631_500.jpg?e7443c8cf76771e8c155c4027d033cb9/melon/resize/416/quality/80/optimize"
             alt="LUGI"
